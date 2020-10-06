@@ -25,7 +25,7 @@ Instrument the main.sh file as the example presented in the File folder.
 
 ## Links
 
-- **Website**: building
+- **Website**: https://weaknessestestingtool.github.io/wtt/
 
 - **GitHub**: https://github.com/WeaknessesTestingTool/source
 
