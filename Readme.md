@@ -4,7 +4,7 @@
 
 ## Tool
 
-This repository provides the tool WTT for testing weaknesses in C programs.
+- This repository provides the tool WTT for testing weaknesses in C programs.
 
 ### Requirements
 
@@ -27,3 +27,9 @@ $ cd WTT
 - **Website**: building
 
 - **GitHub**: https://github.com/WeaknessesTestingTool/source
+
+## Author
+ -
+
+## License
+	WTT is available under the MIT license. See the LICENSE file for more info.
