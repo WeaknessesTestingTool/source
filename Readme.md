@@ -21,6 +21,7 @@ $ echo performance|sudo tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governo
 $ git clone https://github.com/WeaknessesTestingTool/source.git WTT
 $ cd WTT
 ```
+Instrument the main.sh file as the example presented in the File folder.
 
 ## Links
 
