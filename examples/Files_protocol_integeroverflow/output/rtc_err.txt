@@ -1,0 +1,5 @@
+In file included from tester_protocol_rtc.c:13:0:
+protocol.c: In function ‘r_flush’:
+protocol.c:1513:9: warning: implicit declaration of function ‘buffer_output’ [-Wimplicit-function-declaration]
+     if (buffer_output(vd->r, vd->buff, AP_IOBUFSIZE)) {
+         ^

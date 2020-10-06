@@ -1,0 +1,8 @@
+"fc0c748ex" != "%xex"
+tester_cmdutils_rtc.c:32: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_log_callback_help
+
+ 1 FAILED TEST(S)

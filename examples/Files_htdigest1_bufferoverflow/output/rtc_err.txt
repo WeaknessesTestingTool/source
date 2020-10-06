@@ -1,0 +1,4 @@
+tester_htdigest_rtc.c: In function ‘__wrap_apr_file_getc’:
+tester_htdigest_rtc.c:22:9: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+     *ch = "testet";
+         ^

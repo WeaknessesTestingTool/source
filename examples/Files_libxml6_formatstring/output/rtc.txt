@@ -1,0 +1,8 @@
+"%xex" != "fc0c748ex"
+tester_libxml_rtc.c:30: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_libxml_buildMessage
+
+ 1 FAILED TEST(S)
