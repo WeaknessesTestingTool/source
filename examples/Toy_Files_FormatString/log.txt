@@ -1,0 +1,486 @@
+#id:1#
+#input:#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:2#
+#input:teste#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:3#
+#input:%xteste#
+
+"1a79d780teste
+" != "%xteste
+"
+tester_formatstring_ft.c:39: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_printWrapper_format
+
+ 1 FAILED TEST(S)
+############################
+
+#id:4#
+#input:test#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:5#
+#input:�est#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:6#
+#input:4est#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:7#
+#input:Test#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:8#
+#input:dest#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:9#
+#input:|est#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:10#
+#input:pest#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:11#
+#input:vest#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:12#
+#input:uest#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:13#
+#input:t�st#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:14#
+#input:t%st#
+
+"tt
+" != "t%st
+"
+tester_formatstring_ft.c:39: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_printWrapper_format
+
+ 1 FAILED TEST(S)
+############################
+
+#id:15#
+#input:tEst#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:16#
+#input:tust#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:17#
+#input:tmst#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:18#
+#input:tast#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:19#
+#input:tgst#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:20#
+#input:tdst#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:21#
+#input:te�t#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:22#
+#input:te3t#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:23#
+#input:teSt#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:24#
+#input:tect#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:25#
+#input:te{t#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:26#
+#input:tewt#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:27#
+#input:teqt#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:28#
+#input:tert#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:29#
+#input:tes�#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:30#
+#input:tes4#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:31#
+#input:tesT#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:32#
+#input:tesd#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:33#
+#input:tes|#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:34#
+#input:tesp#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:35#
+#input:tesv#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:36#
+#input:tesu#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:37#
+#input:est#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:38#
+#input:Dest#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:39#
+#input:lest#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:40#
+#input:xest#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:41#
+#input:rest#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:42#
+#input:west#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:43#
+#input:u�st#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:44#
+#input:tst#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:45#
+#input:tUst#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:46#
+#input:t}st#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:47#
+#input:tist#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:48#
+#input:tcst#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:49#
+#input:tfst#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:50#
+#input:td�t#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:51#
+#input:tet#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:52#
+#input:teCt#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:53#
+#input:tekt#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:54#
+#input:tet#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:55#
+#input:teut#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:56#
+#input:tept#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:57#
+#input:ter�#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:58#
+#input:tes#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:59#
+#input:tesD#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:60#
+#input:tesl#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:61#
+#input:tesx#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:62#
+#input:tesr#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:63#
+#input:tesw#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:64#
+#input:est#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:65#
+#input:Hest#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:66#
+#input:jest#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:67#
+#input:{est#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:68#
+#input:s�st#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:69#
+#input:w�st#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:70#
+#input:tst#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:71#
+#input:tYst#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:72#
+#input:t{st#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:73#
+#input:tjst#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:74#
+#input:tb�t#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:75#
+#input:tf�t#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:76#
+#input:tet#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:77#
+#input:teOt#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:78#
+#input:temt#
+
+[  PASSED  ] 1 test(s).
+############################
+

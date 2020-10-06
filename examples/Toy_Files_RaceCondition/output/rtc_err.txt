@@ -1,0 +1,5 @@
+In file included from tester_racecondition_rtc.c:13:0:
+race_condition.c: In function ‘startProcess’:
+race_condition.c:10:11: warning: implicit declaration of function ‘fork’ [-Wimplicit-function-declaration]
+     pid = fork();
+           ^

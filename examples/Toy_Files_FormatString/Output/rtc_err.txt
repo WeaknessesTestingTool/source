@@ -1,0 +1,5 @@
+In file included from tester_formatstring_rtc.c:13:0:
+format_string.c: In function ‘printWrapper’:
+format_string.c:4:2: warning: format not a string literal and no format arguments [-Wformat-security]
+  printf(string);
+  ^

@@ -1,12 +1,15 @@
 #### EXPERIMENT CONFIGURATION ####
-exp_folder="/home/raphael/Dropbox/Doutorado/UFCG/SoftwareTesting/TestingCWETool/Files"
+BIN_PATH=$(readlink -f "$0")
+dir="$(dirname $BIN_PATH)"  
+
+exp_folder="$dir/Files"
 results_folder="results/"
 testcases_folder="testcases/"
 
 #### EXPERIMENT CONFIGURATION ####
-tested_file="cmdutils.c"
-tester_file_ft="tester_cmdutils_ft.c"
-tester_file_rtc="tester_cmdutils_rtc.c"
+tested_file="htdbm.c"
+tester_file_ft="tester_htdbm_ft.c"
+tester_file_rtc="tester_htdbm_rtc.c"
 # mocked_function1="apr_vformatter"
 # mocked_function2="buffer_output"
 #include_folder="include/"

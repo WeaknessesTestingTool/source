@@ -1,0 +1,9 @@
+In file included from tester_htdbm_rtc.c:13:0:
+htdbm.c: In function ‘htdbm_list’:
+htdbm.c:220:9: warning: format not a string literal and no format arguments [-Wformat-security]
+         fprintf(stderr, cmnt + 1);
+         ^
+
+[==========] Running 1 test(s).
+[ RUN      ] test_htdbm_list
+"7e65c956ex" != "%xex"

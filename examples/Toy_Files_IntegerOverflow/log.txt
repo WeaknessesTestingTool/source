@@ -1,0 +1,6831 @@
+#id:1#
+#input:#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:2#
+#input:1099909,1100009,1100009#
+
+0x5a57 != 0x325a57
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:3#
+#input:-1099909,-1099809,-1099809#
+
+0xffffffffffffa739 != 0xffffffffffcda739
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:4#
+#input:1099,1199,1199#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:5#
+#input:0,100,100#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:6#
+#input:9099,9199,9199#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:7#
+#input:5099,5199,5199#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:8#
+#input:3099,3199,3199#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:9#
+#input:99,199,199#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:10#
+#input:1,101,101#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:11#
+#input:1899,1999,1999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:12#
+#input:1499,1599,1599#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:13#
+#input:1299,1399,1399#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:14#
+#input:1199,1299,1299#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:15#
+#input:10,110,110#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:16#
+#input:1019,1119,1119#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:17#
+#input:1089,1189,1189#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:18#
+#input:109,209,209#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:19#
+#input:1091,1191,1191#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:20#
+#input:1098,1198,1198#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:21#
+#input:7099,7199,7199#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:22#
+#input:2099,2199,2199#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:23#
+#input:1699,1799,1799#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:24#
+#input:1399,1499,1499#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:25#
+#input:11,111,111#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:26#
+#input:1059,1159,1159#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:27#
+#input:108,208,208#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:28#
+#input:1095,1195,1195#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:29#
+#input:6,106,106#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:30#
+#input:2,102,102#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:31#
+#input:17,117,117#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:32#
+#input:13,113,113#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:33#
+#input:1069,1169,1169#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:34#
+#input:1096,1196,1196#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:35#
+#input:4099,4199,4199#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:36#
+#input:-99,1,1#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:37#
+#input:6099,6199,6199#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:38#
+#input:8099,8199,8199#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:39#
+#input:1599,1699,1699#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:40#
+#input:1799,1899,1899#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:41#
+#input:1999,2099,2099#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:42#
+#input:1079,1179,1179#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:43#
+#input:1049,1149,1149#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:44#
+#input:1039,1139,1139#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:45#
+#input:1029,1129,1129#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:46#
+#input:1009,1109,1109#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:47#
+#input:1097,1197,1197#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:48#
+#input:1094,1194,1194#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:49#
+#input:1093,1193,1193#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:50#
+#input:1092,1192,1192#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:51#
+#input:1090,1190,1190#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:52#
+#input:9,109,109#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:53#
+#input:4,104,104#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:54#
+#input:111,211,211#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:55#
+#input:3,103,103#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:56#
+#input:7,107,107#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:57#
+#input:19,119,119#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:58#
+#input:40,140,140#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:59#
+#input:199,299,299#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:60#
+#input:11151111,11151211,11151211#
+
+0x75dd != 0x1fe75dd
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:61#
+#input:222,322,322#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:62#
+#input:88,188,188#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:63#
+#input:91999,92099,92099#
+
+0x36e5 != 0x436e5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:64#
+#input:5,105,105#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:65#
+#input:19909,20009,20009#
+
+0xffffffffffffea17 != 0xea17
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:66#
+#input:300,400,400#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:67#
+#input:1212,1312,1312#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:68#
+#input:31,131,131#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:69#
+#input:10109,10209,10209#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:70#
+#input:9999999,10000099,10000099#
+
+0xffffffffffffc445 != 0x1c9c445
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:71#
+#input:119,219,219#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:72#
+#input:3333333,3333433,3333433#
+
+0xffffffffffff9747 != 0x989747
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:73#
+#input:299,399,399#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:74#
+#input:199999,200099,200099#
+
+0x2885 != 0x92885
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:75#
+#input:14,114,114#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:76#
+#input:30,130,130#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:77#
+#input:101,201,201#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:78#
+#input:-109,-9,-9#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:79#
+#input:-909,-809,-809#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:80#
+#input:-509,-409,-409#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:81#
+#input:-309,-209,-209#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:82#
+#input:-9,91,91#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:83#
+#input:-1,99,99#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:84#
+#input:-189,-89,-89#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:85#
+#input:-149,-49,-49#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:86#
+#input:-129,-29,-29#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:87#
+#input:-119,-19,-19#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:88#
+#input:-10,90,90#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:89#
+#input:-101,-1,-1#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:90#
+#input:-108,-8,-8#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:91#
+#input:5109,5209,5209#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:92#
+#input:-709,-609,-609#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:93#
+#input:-209,-109,-109#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:94#
+#input:-169,-69,-69#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:95#
+#input:-139,-39,-39#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:96#
+#input:-11,89,89#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:97#
+#input:-105,-5,-5#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:98#
+#input:3109,3209,3209#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:99#
+#input:-6,94,94#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:100#
+#input:-2,98,98#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:101#
+#input:-17,83,83#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:102#
+#input:-13,87,87#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:103#
+#input:-106,-6,-6#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:104#
+#input:1109,1209,1209#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:105#
+#input:2109,2209,2209#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:106#
+#input:4109,4209,4209#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:107#
+#input:6109,6209,6209#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:108#
+#input:7109,7209,7209#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:109#
+#input:8109,8209,8209#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:110#
+#input:9109,9209,9209#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:111#
+#input:-409,-309,-309#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:112#
+#input:-609,-509,-509#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:113#
+#input:-809,-709,-709#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:114#
+#input:-159,-59,-59#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:115#
+#input:-179,-79,-79#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:116#
+#input:-199,-99,-99#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:117#
+#input:-107,-7,-7#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:118#
+#input:-104,-4,-4#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:119#
+#input:-103,-3,-3#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:120#
+#input:-102,-2,-2#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:121#
+#input:-100,0,0#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:122#
+#input:8,108,108#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:123#
+#input:510,610,610#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:124#
+#input:260,360,360#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:125#
+#input:-5,95,95#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:126#
+#input:-99999999,-99999899,-99999899#
+
+0x5dcb != 0xffffffffee1e5dcb
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:127#
+#input:60000,60100,60100#
+
+0xffffffffffffbfe8 != 0x2bfe8
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:128#
+#input:111009,111109,111109#
+
+0x15ab != 0x515ab
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:129#
+#input:-1109,-1009,-1009#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:130#
+#input:99999,100099,100099#
+
+0xffffffffffff94a5 != 0x494a5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:131#
+#input:-1874919423,-1874919323,-1874919323#
+
+0xcb != 0xffffffffb0bd00cb
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:132#
+#input:109109,109209,109209#
+
+0xffffffffffffff67 != 0x4ff67
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:133#
+#input:79,179,179#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:134#
+#input:90,190,190#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:135#
+#input:410,510,510#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:136#
+#input:110,210,210#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:137#
+#input:109009,109109,109109#
+
+0xfffffffffffffe3b != 0x4fe3b
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:138#
+#input:-89,11,11#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:139#
+#input:-1233977343,-1233977243,-1233977243#
+
+0xcb != 0x235900cb
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:140#
+#input:71,171,171#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:141#
+#input:68,168,168#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:142#
+#input:997528631,997528731,997528731#
+
+0x3d6d != 0xffffffffb25f3d6d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:143#
+#input:109999,110099,110099#
+
+0x9d5 != 0x509d5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:144#
+#input:70,170,170#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:145#
+#input:1010,1110,1110#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:146#
+#input:-1633477519,-1633477419,-1633477419#
+
+0x561b != 0xffffffffdbe9561b
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:147#
+#input:276447231,276447331,276447331#
+
+0xffffffffffffc0c5 != 0x316ec0c5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:148#
+#input:16,116,116#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:149#
+#input:509,609,609#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:150#
+#input:149,249,249#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:151#
+#input:910,1010,1010#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:152#
+#input:310,410,410#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:153#
+#input:-19,81,81#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:154#
+#input:-7,93,93#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:155#
+#input:-12,88,88#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:156#
+#input:9009,9109,9109#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:157#
+#input:11111,11211,11211#
+
+0xffffffffffff82fd != 0x82fd
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:158#
+#input:-110000,-109900,-109900#
+
+0xfffffffffffff7b8 != 0xfffffffffffaf7b8
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:159#
+#input:1111,1211,1211#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:160#
+#input:106,206,206#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:161#
+#input:809,909,909#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:162#
+#input:55,155,155#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:163#
+#input:734294471,734294571,734294571#
+
+0x561d != 0xffffffff834d561d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:164#
+#input:54,154,154#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:165#
+#input:11010,11110,11110#
+
+0xffffffffffff81ce != 0x81ce
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:166#
+#input:69,169,169#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:167#
+#input:131111,131211,131211#
+
+0x13d != 0x6013d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:168#
+#input:-90,10,10#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:169#
+#input:3333,3433,3433#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:170#
+#input:-3,97,97#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:171#
+#input:10999,11099,11099#
+
+0xffffffffffff81ad != 0x81ad
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:172#
+#input:410065408,410065508,410065508#
+
+0x4ec8 != 0x49534ec8
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:173#
+#input:-9999099,-9998999,-9998999#
+
+0x47d7 != 0xfffffffffe3647d7
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:174#
+#input:89,189,189#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:175#
+#input:8999,9099,9099#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:176#
+#input:910999,911099,911099#
+
+0xffffffffffffb48d != 0x29b48d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:177#
+#input:999,1099,1099#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:178#
+#input:309,409,409#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:179#
+#input:1010999,1011099,1011099#
+
+0x486d != 0x2e486d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:180#
+#input:220,320,320#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:181#
+#input:18,118,118#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:182#
+#input:1191999,1192099,1192099#
+
+0xffffffffffff9185 != 0x369185
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:183#
+#input:114,214,214#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:184#
+#input:11000000,11000100,11000100#
+
+0xffffffffffff8b08 != 0x1f78b08
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:185#
+#input:333,433,433#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:186#
+#input:21,121,121#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:187#
+#input:1100,1200,1200#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:188#
+#input:2209,2309,2309#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:189#
+#input:444444,444544,444544#
+
+0x591c != 0x14591c
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:190#
+#input:29,129,129#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:191#
+#input:100,200,200#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:192#
+#input:66,166,166#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:193#
+#input:2111111,2111211,2111211#
+
+0xffffffffffffa45d != 0x60a45d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:194#
+#input:-884229917,-884229817,-884229817#
+
+0x2b71 != 0x61e32b71
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:195#
+#input:9999,10099,10099#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:196#
+#input:50,150,150#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:197#
+#input:190,290,290#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:198#
+#input:11111111,11111211,11111211#
+
+0xffffffffffffa11d != 0x1fca11d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:199#
+#input:107,207,207#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:200#
+#input:101099,101199,101199#
+
+0xffffffffffffa189 != 0x4a189
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:201#
+#input:105,205,205#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:202#
+#input:919,1019,1019#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:203#
+#input:11110,11210,11210#
+
+0xffffffffffff82fa != 0x82fa
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:204#
+#input:11090909,11091009,11091009#
+
+0xffffffffffffb45f != 0x1fbb45f
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:205#
+#input:9189,9289,9289#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:206#
+#input:11101,11201,11201#
+
+0xffffffffffff82df != 0x82df
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:207#
+#input:1110,1210,1210#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:208#
+#input:813,913,913#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:209#
+#input:1119,1219,1219#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:210#
+#input:6669,6769,6769#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:211#
+#input:610,710,710#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:212#
+#input:22109109,22109209,22109209#
+
+0x13e7 != 0x3f413e7
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:213#
+#input:-619650161,-619650061,-619650061#
+
+0xffffffffffffab75 != 0xffffffff9132ab75
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:214#
+#input:-160300000,-160299900,-160299900#
+
+0xd28 != 0xffffffffe3560d28
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:215#
+#input:-192,-92,-92#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:216#
+#input:101999,102099,102099#
+
+0xffffffffffffac15 != 0x4ac15
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:217#
+#input:17999,18099,18099#
+
+0xffffffffffffd3b5 != 0xd3b5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:218#
+#input:39,139,139#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:219#
+#input:191988,192088,192088#
+
+0xffffffffffffcaa4 != 0x8caa4
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:220#
+#input:409,509,509#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:221#
+#input:949,1049,1049#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:222#
+#input:1077,1177,1177#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:223#
+#input:5095,5195,5195#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:224#
+#input:20,120,120#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:225#
+#input:49,149,149#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:226#
+#input:3097,3197,3197#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:227#
+#input:3309,3409,3409#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:228#
+#input:59,159,159#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:229#
+#input:111100,111200,111200#
+
+0x16bc != 0x516bc
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:230#
+#input:11091,11191,11191#
+
+0xffffffffffff82c1 != 0x82c1
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:231#
+#input:15,115,115#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:232#
+#input:-307,-207,-207#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:233#
+#input:78,178,178#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:234#
+#input:41,141,141#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:235#
+#input:99990,100090,100090#
+
+0xffffffffffff948a != 0x4948a
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:236#
+#input:80,180,180#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:237#
+#input:-9909,-9809,-9809#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:238#
+#input:33,133,133#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:239#
+#input:22,122,122#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:240#
+#input:9904,10004,10004#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:241#
+#input:909,1009,1009#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:242#
+#input:210,310,310#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:243#
+#input:19999,20099,20099#
+
+0xffffffffffffeb25 != 0xeb25
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:244#
+#input:110909,111009,111009#
+
+0x147f != 0x5147f
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:245#
+#input:61,161,161#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:246#
+#input:1385447424,1385447524,1385447524#
+
+0xffffffffffffc0c8 != 0xfffffffff7bcc0c8
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:247#
+#input:3009,3109,3109#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:248#
+#input:181,281,281#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:249#
+#input:999999,1000099,1000099#
+
+0xffffffffffffc785 != 0x2dc785
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:250#
+#input:-39,61,61#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:251#
+#input:609,709,709#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:252#
+#input:-279019293,-279019193,-279019193#
+
+0xffffffffffff8371 != 0xffffffffce1b8371
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:253#
+#input:60,160,160#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:254#
+#input:-999,-899,-899#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:255#
+#input:1090899,1090999,1090999#
+
+0xfffffffffffff0c1 != 0x31f0c1
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:256#
+#input:899,999,999#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:257#
+#input:19199990,19200090,19200090#
+
+0xffffffffffffe8aa != 0x36ee8aa
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:258#
+#input:184298154,184298254,184298254#
+
+0xffffffffffff80c6 != 0x20f480c6
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:259#
+#input:-20,80,80#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:260#
+#input:-1100,-1000,-1000#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:261#
+#input:8888,8988,8988#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:262#
+#input:-1009,-909,-909#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:263#
+#input:-10109,-10009,-10009#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:264#
+#input:-40,60,60#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:265#
+#input:-1113277170,-1113277070,-1113277070#
+
+0x37f2 != 0x38ee37f2
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:266#
+#input:11119109,11119209,11119209#
+
+0xfffffffffffffed7 != 0x1fcfed7
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:267#
+#input:6666,6766,6766#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:268#
+#input:111111,111211,111211#
+
+0x16dd != 0x516dd
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:269#
+#input:-9999999,-9999899,-9999899#
+
+0x3d4b != 0xfffffffffe363d4b
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:270#
+#input:11091099,11091199,11091199#
+
+0xffffffffffffb699 != 0x1fbb699
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:271#
+#input:99099,99199,99199#
+
+0xffffffffffff8a19 != 0x48a19
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:272#
+#input:555,655,655#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:273#
+#input:-8,92,92#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:274#
+#input:19099099,19099199,19099199#
+
+0x4a59 != 0x36a4a59
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:275#
+#input:19499,19599,19599#
+
+0xffffffffffffe549 != 0xe549
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:276#
+#input:1179,1279,1279#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:277#
+#input:191,291,291#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:278#
+#input:104,204,204#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:279#
+#input:30716359,30716459,30716459#
+
+0x161d != 0x57e161d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:280#
+#input:2909,3009,3009#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:281#
+#input:910999999,911000099,911000099#
+
+0x4605 != 0xffffffffa2e64605
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:282#
+#input:22347264,22347364,22347364#
+
+0xfffffffffffffac8 != 0x3fefac8
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:283#
+#input:-727379969,-727379869,-727379869#
+
+0x30c5 != 0x7def30c5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:284#
+#input:-16,84,84#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:285#
+#input:-110,-10,-10#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:286#
+#input:-169341384,-169341284,-169341284#
+
+0x2b70 != 0xffffffffe1b82b70
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:287#
+#input:-111111110,-111111010,-111111010#
+
+0xffffffffffffbd76 != 0xffffffffec21bd76
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:288#
+#input:-99999,-99899,-99899#
+
+0x6ceb != 0xfffffffffffb6ceb
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:289#
+#input:109097,109197,109197#
+
+0xffffffffffffff43 != 0x4ff43
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:290#
+#input:444,544,544#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:291#
+#input:92,192,192#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:292#
+#input:10909,11009,11009#
+
+0xffffffffffff809f != 0x809f
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:293#
+#input:12,112,112#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:294#
+#input:951099,951199,951199#
+
+0xffffffffffff8a79 != 0x2b8a79
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:295#
+#input:169,269,269#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:296#
+#input:-2074054201,-2074054101,-2074054101#
+
+0x561d != 0xffffffff8d21561d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:297#
+#input:-60,40,40#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:298#
+#input:1189,1289,1289#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:299#
+#input:11111109,11111209,11111209#
+
+0xffffffffffffa117 != 0x1fca117
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:300#
+#input:1569325055,1569325155,1569325155#
+
+0xc5 != 0x189e00c5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:301#
+#input:91,191,191#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:302#
+#input:-9999,-9899,-9899#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:303#
+#input:91910909,91911009,91911009#
+
+0x59bf != 0x106f59bf
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:304#
+#input:44,144,144#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:305#
+#input:23,123,123#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:306#
+#input:1888,1988,1988#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:307#
+#input:777,877,877#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:308#
+#input:1316134911,1316135011,1316135011#
+
+0xffffffffffffe0c5 != 0xffffffffeb57e0c5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:309#
+#input:1494771484,1494771584,1494771584#
+
+0x361c != 0xb49361c
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:310#
+#input:1146793538,1146793638,1146793638#
+
+0xb8e != 0xffffffffcd100b8e
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:311#
+#input:11109,11209,11209#
+
+0xffffffffffff82f7 != 0x82f7
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:312#
+#input:-1773790777,-1773790677,-1773790677#
+
+0x4e1d != 0xffffffffc2d24e1d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:313#
+#input:160,260,260#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:314#
+#input:11099,11199,11199#
+
+0xffffffffffff82d9 != 0x82d9
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:315#
+#input:4009,4109,4109#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:316#
+#input:1011111111,1011111211,1011111211#
+
+0xffffffffffffff1d != 0xffffffffb4ccff1d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:317#
+#input:710,810,810#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:318#
+#input:1119111,1119211,1119211#
+
+0x3b5d != 0x333b5d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:319#
+#input:899709557,899709657,899709657#
+
+0x7027 != 0xffffffffa0e17027
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:320#
+#input:-80,20,20#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:321#
+#input:-111109,-111009,-111009#
+
+0xffffffffffffeab9 != 0xfffffffffffaeab9
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:322#
+#input:109099,109199,109199#
+
+0xffffffffffffff49 != 0x4ff49
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:323#
+#input:159,259,259#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:324#
+#input:99009,99109,99109#
+
+0xffffffffffff890b != 0x4890b
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:325#
+#input:747385742,747385842,747385842#
+
+0xffffffffffff9b72 != 0xffffffff85a49b72
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:326#
+#input:111111110,111111210,111111210#
+
+0x441a != 0x13de441a
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:327#
+#input:-1494771484,-1494771384,-1494771384#
+
+0xffffffffffffcb74 != 0xfffffffff4b6cb74
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:328#
+#input:990999,991099,991099#
+
+0x5e0d != 0x2d5e0d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:329#
+#input:19699,19799,19799#
+
+0xffffffffffffe7a1 != 0xe7a1
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:330#
+#input:51,151,151#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:331#
+#input:1990,2090,2090#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:332#
+#input:-1757768867,-1757768767,-1757768767#
+
+0xffffffffffffbadf != 0xffffffffc5afbadf
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:333#
+#input:4444,4544,4544#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:334#
+#input:9309,9409,9409#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:335#
+#input:1107,1207,1207#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:336#
+#input:325142269,325142369,325142369#
+
+0xffffffffffffd5bf != 0x3a23d5bf
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:337#
+#input:-30,70,70#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:338#
+#input:490,590,590#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:339#
+#input:-9009,-8909,-8909#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:340#
+#input:1090999,1091099,1091099#
+
+0xfffffffffffff1ed != 0x31f1ed
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:341#
+#input:4444444,4444544,4444544#
+
+0x741c != 0xcb741c
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:342#
+#input:110109,110209,110209#
+
+0xb1f != 0x50b1f
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:343#
+#input:32,132,132#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:344#
+#input:150,250,250#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:345#
+#input:911,1011,1011#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:346#
+#input:-14,86,86#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:347#
+#input:100001,100101,100101#
+
+0xffffffffffff94ab != 0x494ab
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:348#
+#input:5159,5259,5259#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:349#
+#input:130,230,230#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:350#
+#input:-310,-210,-210#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:351#
+#input:727379969,727380069,727380069#
+
+0xffffffffffffd0cb != 0xffffffff8210d0cb
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:352#
+#input:1091099,1091199,1091199#
+
+0xfffffffffffff319 != 0x31f319
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:353#
+#input:7777,7877,7877#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:354#
+#input:-97,3,3#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:355#
+#input:10910999,10911099,10911099#
+
+0x780d != 0x1f3780d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:356#
+#input:1468588942,1468589042,1468589042#
+
+0xffffffffffffab72 != 0x69aab72
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:357#
+#input:5019,5119,5119#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:358#
+#input:550,650,650#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:359#
+#input:1111111111,1111111211,1111111211#
+
+0xffffffffffffa21d != 0xffffffffc6aea21d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:360#
+#input:131109,131209,131209#
+
+0x137 != 0x60137
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:361#
+#input:-1518956997,-1518956897,-1518956897#
+
+0xffffffffffffab79 != 0xfffffffff063ab79
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:362#
+#input:44444,44544,44544#
+
+0x99c != 0x2099c
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:363#
+#input:111010,111110,111110#
+
+0x15ae != 0x515ae
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:364#
+#input:118,218,218#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:365#
+#input:-79,21,21#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:366#
+#input:-1111111111,-1111111011,-1111111011#
+
+0x5f73 != 0x39515f73
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:367#
+#input:-310909,-310809,-310809#
+
+0xffffffffffffc551 != 0xfffffffffff1c551
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:368#
+#input:189,289,289#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:369#
+#input:9989,10089,10089#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:370#
+#input:6009,6109,6109#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:371#
+#input:81,181,181#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:372#
+#input:-18,82,82#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:373#
+#input:1111111,1111211,1111211#
+
+0xffffffffffffdd9d != 0x32dd9d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:374#
+#input:45,145,145#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:375#
+#input:77,177,177#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:376#
+#input:101111,101211,101211#
+
+0xffffffffffffa1ad != 0x4a1ad
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:377#
+#input:1000,1100,1100#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:378#
+#input:1609,1709,1709#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:379#
+#input:-66,34,34#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:380#
+#input:1101,1201,1201#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:381#
+#input:-117909,-117809,-117809#
+
+0xffffffffffff9b09 != 0xfffffffffffa9b09
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:382#
+#input:81089,81189,81189#
+
+0xffffffffffffb70b != 0x3b70b
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:383#
+#input:810,910,910#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:384#
+#input:500,600,600#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:385#
+#input:98,198,198#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:386#
+#input:30910,31010,31010#
+
+0x6b02 != 0x16b02
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:387#
+#input:699,799,799#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:388#
+#input:209,309,309#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:389#
+#input:1182516735,1182516835,1182516835#
+
+0x52c5 != 0xffffffffd37352c5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:390#
+#input:10910,11010,11010#
+
+0xffffffffffff80a2 != 0x80a2
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:391#
+#input:66666,66766,66766#
+
+0xe06 != 0x30e06
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:392#
+#input:1939,2039,2039#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:393#
+#input:-407995279,-407995179,-407995179#
+
+0x761b != 0xffffffffb70b761b
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:394#
+#input:4709,4809,4809#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:395#
+#input:-1000,-900,-900#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:396#
+#input:-903,-803,-803#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:397#
+#input:91919,92019,92019#
+
+0x35f5 != 0x435f5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:398#
+#input:412,512,512#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:399#
+#input:11999999,12000099,12000099#
+
+0x51c5 != 0x22551c5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:400#
+#input:9119,9219,9219#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:401#
+#input:179,279,279#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:402#
+#input:1001,1101,1101#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:403#
+#input:9960,10060,10060#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:404#
+#input:9909,10009,10009#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:405#
+#input:103,203,203#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:406#
+#input:116,216,216#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:407#
+#input:110990,111090,111090#
+
+0x1572 != 0x51572
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:408#
+#input:11011,11111,11111#
+
+0xffffffffffff81d1 != 0x81d1
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:409#
+#input:111091081,111091181,111091181#
+
+0x5963 != 0x13dd5963
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:410#
+#input:11000,11100,11100#
+
+0xffffffffffff81b0 != 0x81b0
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:411#
+#input:11801,11901,11901#
+
+0xffffffffffff8b13 != 0x8b13
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:412#
+#input:888,988,988#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:413#
+#input:439396095,439396195,439396195#
+
+0xfffffffffffff5c5 != 0x4e91f5c5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:414#
+#input:666066,666166,666166#
+
+0x7e3e != 0x1e7e3e
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:415#
+#input:10900,11000,11000#
+
+0xffffffffffff8084 != 0x8084
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:416#
+#input:50950,51050,51050#
+
+0x55da != 0x255da
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:417#
+#input:10091,10191,10191#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:418#
+#input:-111,-11,-11#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:419#
+#input:1285418553,1285418653,1285418653#
+
+0xffffffffffffcb73 != 0xffffffffe5d9cb73
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:420#
+#input:-4,96,96#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:421#
+#input:-11099,-10999,-10999#
+
+0x7eb7 != 0xffffffffffff7eb7
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:422#
+#input:651628839,651628939,651628939#
+
+0x343d != 0x7485343d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:423#
+#input:-10000,-9900,-9900#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:424#
+#input:80180,80280,80280#
+
+0xffffffffffffac64 != 0x3ac64
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:425#
+#input:920,1020,1020#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:426#
+#input:1410065407,1410065507,1410065507#
+
+0xffffffffffffacc5 != 0xfffffffffc23acc5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:427#
+#input:1773790777,1773790877,1773790877#
+
+0xffffffffffffb373 != 0x3d2db373
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:428#
+#input:5519,5619,5619#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:429#
+#input:999999991,1000000091,1000000091#
+
+0x5ead != 0xffffffffb2d05ead
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:430#
+#input:100000,100100,100100#
+
+0xffffffffffff94a8 != 0x494a8
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:431#
+#input:9090999,9091099,9091099#
+
+0x27ed != 0x1a027ed
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:432#
+#input:6666666,6666766,6666766#
+
+0x2dc6 != 0x1312dc6
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:433#
+#input:1229,1329,1329#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:434#
+#input:-59,41,41#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:435#
+#input:-77777777,-77777677,-77777677#
+
+0xffffffffffff9e75 != 0xfffffffff2179e75
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:436#
+#input:5555,5655,5655#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:437#
+#input:1454759936,1454760036,1454760036#
+
+0xffffffffffffa0c8 != 0x421a0c8
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:438#
+#input:1863462913,1863463013,1863463013#
+
+0xffffffffffff90cb != 0x4d3690cb
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:439#
+#input:1105,1205,1205#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:440#
+#input:1215752191,1215752291,1215752291#
+
+0xffffffffffffb8c5 != 0xffffffffd964b8c5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:441#
+#input:734294469,734294569,734294569#
+
+0x5617 != 0xffffffff834d5617
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:442#
+#input:198,298,298#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:443#
+#input:1569324255,1569324355,1569324355#
+
+0xfffffffffffff765 != 0x189df765
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:444#
+#input:10109101,10109201,10109201#
+
+0xffffffffffffc2cf != 0x1cec2cf
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:445#
+#input:410941,411041,411041#
+
+0xffffffffffffd07f != 0x12d07f
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:446#
+#input:10991,11091,11091#
+
+0xffffffffffff8195 != 0x8195
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:447#
+#input:-43755025,-43754925,-43754925#
+
+0xe95 != 0xfffffffff82d0e95
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:448#
+#input:161,261,261#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:449#
+#input:223,323,323#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:450#
+#input:109098,109198,109198#
+
+0xffffffffffffff46 != 0x4ff46
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:451#
+#input:100009,100109,100109#
+
+0xffffffffffff94c3 != 0x494c3
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:452#
+#input:-92,8,8#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:453#
+#input:95,195,195#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:454#
+#input:709,809,809#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:455#
+#input:11091091,11091191,11091191#
+
+0xffffffffffffb681 != 0x1fbb681
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:456#
+#input:-799,-699,-699#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:457#
+#input:-1486618625,-1486618525,-1486618525#
+
+0xc5 != 0xfffffffff62c00c5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:458#
+#input:1090109,1090209,1090209#
+
+0xffffffffffffe77f != 0x31e77f
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:459#
+#input:11009,11109,11109#
+
+0xffffffffffff81cb != 0x81cb
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:460#
+#input:10002887,10002987,10002987#
+
+0xffffffffffffe61d != 0x1c9e61d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:461#
+#input:-15,85,85#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:462#
+#input:-50,50,50#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:463#
+#input:1061,1161,1161#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:464#
+#input:-96,4,4#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:465#
+#input:10966,11066,11066#
+
+0xffffffffffff814a != 0x814a
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:466#
+#input:1091111111,1091111211,1091111211#
+
+0x1b1d != 0xffffffffc31b1b1d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:467#
+#input:36,136,136#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:468#
+#input:9199,9299,9299#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:469#
+#input:6119,6219,6219#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:470#
+#input:-607,-507,-507#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:471#
+#input:180,280,280#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:472#
+#input:-18989,-18889,-18889#
+
+0x2241 != 0xffffffffffff2241
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:473#
+#input:99999999,100000099,100000099#
+
+0xffffffffffffa3c5 != 0x11e1a3c5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:474#
+#input:1073,1173,1173#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:475#
+#input:10991099,10991199,10991199#
+
+0x22b9 != 0x1f722b9
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:476#
+#input:1321730047,1321730147,1321730147#
+
+0xc5 != 0xffffffffec5800c5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:477#
+#input:-70,30,30#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:478#
+#input:266148977,266149077,266149077#
+
+0x561b != 0x2f97561b
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:479#
+#input:511009,511109,511109#
+
+0x652b != 0x17652b
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:480#
+#input:111111111,111111211,111111211#
+
+0x441d != 0x13de441d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:481#
+#input:122,222,222#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:482#
+#input:222222,222322,222322#
+
+0x2cf2 != 0xa2cf2
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:483#
+#input:-1215752183,-1215752083,-1215752083#
+
+0x48e3 != 0x269b48e3
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:484#
+#input:20209999,20210099,20210099#
+
+0x24b5 != 0x39d24b5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:485#
+#input:1054,1154,1154#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:486#
+#input:-29,71,71#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:487#
+#input:109101,109201,109201#
+
+0xffffffffffffff4f != 0x4ff4f
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:488#
+#input:1199199,1199299,1199299#
+
+0xffffffffffffe5e5 != 0x36e5e5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:489#
+#input:4999,5099,5099#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:490#
+#input:-301,-201,-201#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:491#
+#input:-222223,-222123,-222123#
+
+0xffffffffffffd49b != 0xfffffffffff5d49b
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:492#
+#input:929,1029,1029#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:493#
+#input:97,197,197#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:494#
+#input:307213591,307213691,307213691#
+
+0x200d != 0x36ef200d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:495#
+#input:1736928719,1736928819,1736928819#
+
+0x4a35 != 0x36964a35
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:496#
+#input:-48,52,52#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:497#
+#input:10990,11090,11090#
+
+0xffffffffffff8192 != 0x8192
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:498#
+#input:1159,1259,1259#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:499#
+#input:499,599,599#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:500#
+#input:88888,88988,88988#
+
+0x1270 != 0x41270
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:501#
+#input:2210,2310,2310#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:502#
+#input:1103,1203,1203#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:503#
+#input:111119,111219,111219#
+
+0x16f5 != 0x516f5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:504#
+#input:-500,-400,-400#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:505#
+#input:11111090,11111190,11111190#
+
+0xffffffffffffa0de != 0x1fca0de
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:506#
+#input:150509,150609,150609#
+
+0xffffffffffffe48f != 0x6e48f
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:507#
+#input:-10909,-10809,-10809#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:508#
+#input:11110909,11111009,11111009#
+
+0xffffffffffff9ebf != 0x1fc9ebf
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:509#
+#input:-1327379969,-1327379869,-1327379869#
+
+0x5ec5 != 0x12a55ec5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:510#
+#input:194313216,194313316,194313316#
+
+0xfffffffffffff4c8 != 0x22bef4c8
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:511#
+#input:-1285418553,-1285418453,-1285418453#
+
+0x361d != 0x1a26361d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:512#
+#input:-95,5,5#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:513#
+#input:293717788,293717888,293717888#
+
+0x561c != 0x3485561c
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:514#
+#input:1710,1810,1810#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:515#
+#input:1995,2095,2095#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:516#
+#input:-149335601,-149335501,-149335501#
+
+0xfffffffffffff635 != 0xffffffffe54bf635
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:517#
+#input:-68758085,-68757985,-68757985#
+
+0xffffffffffff81f9 != 0xfffffffff3b481f9
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:518#
+#input:444444444,444444544,444444544#
+
+0xe1c != 0x4f790e1c
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:519#
+#input:-189999999,-189999899,-189999899#
+
+0x7e4b != 0xffffffffde067e4b
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:520#
+#input:1625817600,1625817700,1625817700#
+
+0x6c8 != 0x22b806c8
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:521#
+#input:5555555,5555655,5555655#
+
+0x50f1 != 0xfe50f1
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:522#
+#input:48,148,148#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:523#
+#input:-1554759937,-1554759837,-1554759837#
+
+0xffffffffffffbdc5 != 0xffffffffe9fcbdc5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:524#
+#input:1209,1309,1309#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:525#
+#input:-10111111,-10111011,-10111011#
+
+0x2733 != 0xfffffffffe312733
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:526#
+#input:-1500155417,-1500155317,-1500155317#
+
+0x567d != 0xfffffffff3c0567d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:527#
+#input:88888888,88888988,88888988#
+
+0x370 != 0xfe50370
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:528#
+#input:63,163,163#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:529#
+#input:11010999,11011099,11011099#
+
+0xbed != 0x1f80bed
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:530#
+#input:999991,1000091,1000091#
+
+0xffffffffffffc76d != 0x2dc76d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:531#
+#input:30716366,30716466,30716466#
+
+0x1632 != 0x57e1632
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:532#
+#input:6699,6799,6799#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:533#
+#input:1410005407,1410005507,1410005507#
+
+0xffffffffffffeda5 != 0xfffffffffc20eda5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:534#
+#input:93,193,193#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:535#
+#input:1889,1989,1989#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:536#
+#input:-849,-749,-749#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:537#
+#input:1191,1291,1291#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:538#
+#input:-299,-199,-199#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:539#
+#input:-55,45,45#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:540#
+#input:1102,1202,1202#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:541#
+#input:110110,110210,110210#
+
+0xb22 != 0x50b22
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:542#
+#input:110111111,110111211,110111211#
+
+0x7d5d != 0x13b07d5d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:543#
+#input:91091099,91091199,91091199#
+
+0xffffffffffffd299 != 0x1049d299
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:544#
+#input:199199,199299,199299#
+
+0x1f25 != 0x91f25
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:545#
+#input:1011,1111,1111#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:546#
+#input:10089,10189,10189#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:547#
+#input:10000,10100,10100#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:548#
+#input:-1111,-1011,-1011#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:549#
+#input:149477148,149477248,149477248#
+
+0xffffffffffff861c != 0x1aba861c
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:550#
+#input:1409,1509,1509#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:551#
+#input:72,172,172#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:552#
+#input:-49,51,51#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:553#
+#input:9919,10019,10019#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:554#
+#input:-9900099,-9899999,-9899999#
+
+0xffffffffffffcfff != 0xfffffffffe3acfff
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:555#
+#input:110910,111010,111010#
+
+0x1482 != 0x51482
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:556#
+#input:1999999909,2000000009,2000000009#
+
+0xffffffffffffbbb7 != 0x65a0bbb7
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:557#
+#input:727379968,727380068,727380068#
+
+0xffffffffffffd0c8 != 0xffffffff8210d0c8
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:558#
+#input:900,1000,1000#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:559#
+#input:1316134912,1316135012,1316135012#
+
+0xffffffffffffe0c8 != 0xffffffffeb57e0c8
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:560#
+#input:-100000,-99900,-99900#
+
+0x6ce8 != 0xfffffffffffb6ce8
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:561#
+#input:-999999999,-999999899,-999999899#
+
+0xffffffffffffa2cb != 0x4d2fa2cb
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:562#
+#input:12929,13029,13029#
+
+0xffffffffffff984b != 0x984b
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:563#
+#input:-65,35,35#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:564#
+#input:100000000,100000100,100000100#
+
+0xffffffffffffa3c8 != 0x11e1a3c8
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:565#
+#input:-118,-18,-18#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:566#
+#input:4410,4510,4510#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:567#
+#input:1106,1206,1206#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:568#
+#input:-400,-300,-300#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:569#
+#input:-71009,-70909,-70909#
+
+0xffffffffffffc0a5 != 0xfffffffffffcc0a5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:570#
+#input:199999109,199999209,199999209#
+
+0x3c57 != 0x23c33c57
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:571#
+#input:109110909,109111009,109111009#
+
+0xffffffffffffb43f != 0x1382b43f
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:572#
+#input:1919,2019,2019#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:573#
+#input:1989199,1989299,1989299#
+
+0xfb5 != 0x5b0fb5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:574#
+#input:-11000,-10900,-10900#
+
+0x7fe0 != 0xffffffffffff7fe0
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:575#
+#input:111109,111209,111209#
+
+0x16d7 != 0x516d7
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:576#
+#input:-2052810070,-2052809970,-2052809970#
+
+0xffffffffffffd0c6 != 0xffffffff90edd0c6
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:577#
+#input:11491149,11491249,11491249#
+
+0x6af != 0x20e06af
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:578#
+#input:115,215,215#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:579#
+#input:-18189,-18089,-18089#
+
+0x2ba1 != 0xffffffffffff2ba1
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:580#
+#input:667,767,767#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:581#
+#input:99090,99190,99190#
+
+0xffffffffffff89fe != 0x489fe
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:582#
+#input:4449,4549,4549#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:583#
+#input:49099,49199,49199#
+
+0x4029 != 0x24029
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:584#
+#input:-678239787,-678239687,-678239687#
+
+0xffffffffffffa647 != 0xffffffff86b8a647
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:585#
+#input:1090920,1091020,1091020#
+
+0xfffffffffffff100 != 0x31f100
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:586#
+#input:55555555,55555655,55555655#
+
+0x2271 != 0x9ef2271
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:587#
+#input:94,194,194#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:588#
+#input:-1884901888,-1884901788,-1884901788#
+
+0xac8 != 0xffffffffaef40ac8
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:589#
+#input:-410109,-410009,-410009#
+
+0x3ad1 != 0xffffffffffed3ad1
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:590#
+#input:-109109,-109009,-109009#
+
+0x229 != 0xfffffffffffb0229
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:591#
+#input:7171,7271,7271#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:592#
+#input:6960,7060,7060#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:593#
+#input:113,213,213#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:594#
+#input:210099,210199,210199#
+
+0xffffffffffff9ee1 != 0x99ee1
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:595#
+#input:-812156815,-812156715,-812156715#
+
+0x6a1b != 0x6ec66a1b
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:596#
+#input:-360,-260,-260#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:597#
+#input:-1010,-910,-910#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:598#
+#input:21110,21210,21210#
+
+0xfffffffffffff82a != 0xf82a
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:599#
+#input:9991,10091,10091#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:600#
+#input:14199,14299,14299#
+
+0xffffffffffffa72d != 0xa72d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:601#
+#input:91099,91199,91199#
+
+0x2c59 != 0x42c59
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:602#
+#input:-94,6,6#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:603#
+#input:991,1091,1091#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:604#
+#input:969,1069,1069#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:605#
+#input:40499,40599,40599#
+
+0xffffffffffffdb61 != 0x1db61
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:606#
+#input:110110119,110110219,110110219#
+
+0x71bd != 0x13b071bd
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:607#
+#input:7777777,7777877,7777877#
+
+0xa9b != 0x1640a9b
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:608#
+#input:180109,180209,180209#
+
+0x3f6f != 0x83f6f
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:609#
+#input:112,212,212#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:610#
+#input:24349,24449,24449#
+
+0x1e1f != 0x11e1f
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:611#
+#input:10918,11018,11018#
+
+0xffffffffffff80ba != 0x80ba
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:612#
+#input:1321729147,1321729247,1321729247#
+
+0xfffffffffffff639 != 0xffffffffec57f639
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:613#
+#input:800,900,900#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:614#
+#input:1696,1796,1796#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:615#
+#input:9909909,9910009,9910009#
+
+0xffffffffffffa487 != 0x1c5a487
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:616#
+#input:-4999,-4899,-4899#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:617#
+#input:6609,6709,6709#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:618#
+#input:10999999,11000099,11000099#
+
+0xffffffffffff8b05 != 0x1f78b05
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:619#
+#input:865202175,865202275,865202275#
+
+0xffffffffffffd0c5 != 0xffffffff9ab5d0c5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:620#
+#input:-558038585,-558038485,-558038485#
+
+0x61d != 0xffffffff9c37061d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:621#
+#input:77409409,77409509,77409509#
+
+0xffffffffffff864b != 0xdd7864b
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:622#
+#input:25,125,125#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:623#
+#input:1210,1310,1310#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:624#
+#input:9910,10010,10010#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:625#
+#input:1091009,1091109,1091109#
+
+0xfffffffffffff20b != 0x31f20b
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:626#
+#input:488372133,488372233,488372233#
+
+0xffffffffffffe7b7 != 0x5753e7b7
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:627#
+#input:141,241,241#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:628#
+#input:-1530494967,-1530494867,-1530494867#
+
+0xffffffffffff80e3 != 0xffffffffee5380e3
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:629#
+#input:661,761,761#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:630#
+#input:624973141,624973241,624973241#
+
+0xc7 != 0x6fc100c7
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:631#
+#input:191099,191199,191199#
+
+0xffffffffffffc039 != 0x8c039
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:632#
+#input:666,766,766#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:633#
+#input:9809,9909,9909#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:634#
+#input:747,847,847#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:635#
+#input:1999999999,2000000099,2000000099#
+
+0xffffffffffffbcc5 != 0x65a0bcc5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:636#
+#input:-69,31,31#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:637#
+#input:1961489777,1961489877,1961489877#
+
+0xffffffffffffe11b != 0x5ebde11b
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:638#
+#input:9093,9193,9193#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:639#
+#input:1099099,1099199,1099199#
+
+0x50d9 != 0x3250d9
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:640#
+#input:109910,110010,110010#
+
+0x8ca != 0x508ca
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:641#
+#input:10099,10199,10199#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:642#
+#input:139,239,239#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:643#
+#input:-21,79,79#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:644#
+#input:-496,-396,-396#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:645#
+#input:96,196,196#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:646#
+#input:199799,199899,199899#
+
+0x262d != 0x9262d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:647#
+#input:99910999,99911099,99911099#
+
+0xffffffffffff90cd != 0x11dd90cd
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:648#
+#input:110011111,110011211,110011211#
+
+0xffffffffffffe97d != 0x13abe97d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:649#
+#input:-1474836481,-1474836381,-1474836381#
+
+0x58c5 != 0xfffffffff84758c5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:650#
+#input:189999,190099,190099#
+
+0xffffffffffffb355 != 0x8b355
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:651#
+#input:3310,3410,3410#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:652#
+#input:11100,11200,11200#
+
+0xffffffffffff82dc != 0x82dc
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:653#
+#input:7555,7655,7655#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:654#
+#input:77777777,77777877,77777877#
+
+0x631b != 0xde8631b
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:655#
+#input:921490773,921490873,921490873#
+
+0xffffffffffff80c7 != 0xffffffffa4c680c7
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:656#
+#input:727379959,727380059,727380059#
+
+0xffffffffffffd0ad != 0xffffffff8210d0ad
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:657#
+#input:4909,5009,5009#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:658#
+#input:420,520,520#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:659#
+#input:-9090,-8990,-8990#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:660#
+#input:1111110,1111210,1111210#
+
+0xffffffffffffdd9a != 0x32dd9a
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:661#
+#input:109309,109409,109409#
+
+0x1bf != 0x501bf
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:662#
+#input:1109110,1109210,1109210#
+
+0xffffffffffffc62a != 0x32c62a
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:663#
+#input:7979,8079,8079#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:664#
+#input:1909,2009,2009#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:665#
+#input:307163591,307163691,307163691#
+
+0xffffffffffffd61d != 0x36ecd61d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:666#
+#input:11099089,11099189,11099189#
+
+0x143b != 0x1fc143b
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:667#
+#input:119999999,120000099,120000099#
+
+0x2ac5 != 0x15752ac5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:668#
+#input:11011091,11011191,11011191#
+
+0xd01 != 0x1f80d01
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:669#
+#input:10111100,10111200,10111200#
+
+0xffffffffffffda3c != 0x1ceda3c
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:670#
+#input:10106,10206,10206#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:671#
+#input:5559,5659,5659#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:672#
+#input:6110909,6111009,6111009#
+
+0xffffffffffffbcff != 0x117bcff
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:673#
+#input:1101019,1101119,1101119#
+
+0x6759 != 0x326759
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:674#
+#input:100999,101099,101099#
+
+0xffffffffffffa05d != 0x4a05d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:675#
+#input:1097199617,1097199717,1097199717#
+
+0xffffffffffffd0cb != 0xffffffffc431d0cb
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:676#
+#input:129,229,229#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:677#
+#input:119111,119211,119211#
+
+0x749d != 0x5749d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:678#
+#input:11090090,11090190,11090190#
+
+0xffffffffffffaac6 != 0x1fbaac6
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:679#
+#input:99109,99209,99209#
+
+0xffffffffffff8a37 != 0x48a37
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:680#
+#input:1985,2085,2085#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:681#
+#input:1521176519,1521176619,1521176619#
+
+0xfffffffffffff01d != 0x1001f01d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:682#
+#input:666666,666766,666766#
+
+0xffffffffffff8546 != 0x1e8546
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:683#
+#input:666666666,666666766,666666766#
+
+0xffffffffffff94c6 != 0x773594c6
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:684#
+#input:-121,-21,-21#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:685#
+#input:190999999,191000099,191000099#
+
+0x4a05 != 0x22274a05
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:686#
+#input:1104,1204,1204#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:687#
+#input:3209,3309,3309#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:688#
+#input:858888,858988,858988#
+
+0x51e0 != 0x2751e0
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:689#
+#input:10910919,10911019,10911019#
+
+0x771d != 0x1f3771d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:690#
+#input:109111,109211,109211#
+
+0xffffffffffffff6d != 0x4ff6d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:691#
+#input:-1410065317,-1410065217,-1410065217#
+
+0x55d9 != 0x3dc55d9
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:692#
+#input:74,174,174#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:693#
+#input:91499,91599,91599#
+
+0x3109 != 0x43109
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:694#
+#input:1108,1208,1208#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:695#
+#input:511,611,611#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:696#
+#input:7112111,7112211,7112211#
+
+0xffffffffffff91d5 != 0x14591d5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:697#
+#input:-115,-15,-15#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:698#
+#input:-9109,-9009,-9009#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:699#
+#input:10899,10999,10999#
+
+0xffffffffffff8081 != 0x8081
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:700#
+#input:-276447231,-276447131,-276447131#
+
+0x40cb != 0xffffffffce9140cb
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:701#
+#input:11110109,11110209,11110209#
+
+0xffffffffffff955f != 0x1fc955f
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:702#
+#input:119199,119299,119299#
+
+0x75a5 != 0x575a5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:703#
+#input:-9922,-9822,-9822#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:704#
+#input:-1223331385,-1223331285,-1223331285#
+
+0x561d != 0x2540561d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:705#
+#input:10111111,10111211,10111211#
+
+0xffffffffffffda5d != 0x1ceda5d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:706#
+#input:10910989,10911089,10911089#
+
+0x77ef != 0x1f377ef
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:707#
+#input:1011111,1011211,1011211#
+
+0x49bd != 0x2e49bd
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:708#
+#input:109888,109988,109988#
+
+0x888 != 0x50888
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:709#
+#input:155555,155655,155655#
+
+0x1fb1 != 0x71fb1
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:710#
+#input:10101109,10101209,10101209#
+
+0x6527 != 0x1ce6527
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:711#
+#input:49490,49590,49590#
+
+0x44be != 0x244be
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:712#
+#input:928,1028,1028#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:713#
+#input:9090,9190,9190#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:714#
+#input:16099099,16099199,16099199#
+
+0xfffffffffffff619 != 0x2e0f619
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:715#
+#input:18991899,18991999,18991999#
+
+0x6219 != 0x3656219
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:716#
+#input:10902,11002,11002#
+
+0xffffffffffff808a != 0x808a
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:717#
+#input:900000,900100,900100#
+
+0x33a8 != 0x2933a8
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:718#
+#input:10110,10210,10210#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:719#
+#input:712,812,812#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:720#
+#input:447,547,547#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:721#
+#input:1991099,1991199,1991199#
+
+0x25f9 != 0x5b25f9
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:722#
+#input:6309,6409,6409#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:723#
+#input:-45,55,55#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:724#
+#input:15911111,15911211,15911211#
+
+0x5b1d != 0x2d85b1d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:725#
+#input:95099,95199,95199#
+
+0x5b39 != 0x45b39
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:726#
+#input:-869,-769,-769#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:727#
+#input:-599,-499,-499#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:728#
+#input:1017,1117,1117#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:729#
+#input:111199,111299,111299#
+
+0x17e5 != 0x517e5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:730#
+#input:57,157,157#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:731#
+#input:-19019,-18919,-18919#
+
+0x21e7 != 0xffffffffffff21e7
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:732#
+#input:33099,33199,33199#
+
+0xffffffffffff84a9 != 0x184a9
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:733#
+#input:39333,39433,39433#
+
+0xffffffffffffcdb7 != 0x1cdb7
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:734#
+#input:5558,5658,5658#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:735#
+#input:1199999,1200099,1200099#
+
+0xffffffffffffef45 != 0x36ef45
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:736#
+#input:21099,21199,21199#
+
+0xfffffffffffff809 != 0xf809
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:737#
+#input:82706431,82706531,82706531#
+
+0xc5 != 0xeca00c5
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:738#
+#input:22222222,22222322,22222322#
+
+0x4172 != 0x3f94172
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:739#
+#input:777777777,777777877,777777877#
+
+0xffffffffffffd81b != 0xffffffff8b13d81b
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:740#
+#input:82,182,182#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:741#
+#input:444444434,444444534,444444534#
+
+0xdfe != 0x4f790dfe
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:742#
+#input:2222,2322,2322#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:743#
+#input:955,1055,1055#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:744#
+#input:-204,-104,-104#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:745#
+#input:-1199,-1099,-1099#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:746#
+#input:1351588039,1351588139,1351588139#
+
+0xffffffffffffcb1d != 0xfffffffff1aecb1d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:747#
+#input:3799,3899,3899#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:748#
+#input:651588039,651588139,651588139#
+
+0x561d != 0x7483561d
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:749#
+#input:-699,-599,-599#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:750#
+#input:-1357789412,-1357789312,-1357789312#
+
+0x561c != 0xd35561c
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:751#
+#input:99999910,100000010,100000010#
+
+0xffffffffffffa2ba != 0x11e1a2ba
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:752#
+#input:1491,1591,1591#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:753#
+#input:7509,7609,7609#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:754#
+#input:179397925,179398025,179398025#
+
+0x3037 != 0x20143037
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:755#
+#input:111111109,111111209,111111209#
+
+0x4417 != 0x13de4417
+tester_integer_ft.c:61: error: Failure!
+
+[  PASSED  ] 0 test(s).
+[  FAILED  ] 1 test(s), listed below:
+[  FAILED  ] test_int_overflow
+
+ 1 FAILED TEST(S)
+############################
+
+#id:756#
+#input:-989,-889,-889#
+
+[  PASSED  ] 1 test(s).
+############################
+
+#id:757#
+#input:-291,-191,-191#
+
+[  PASSED  ] 1 test(s).
+############################
+
