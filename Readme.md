@@ -2,9 +2,7 @@
 	A Technique to Detect Weaknesses in C Programs
 [![MIT License](https://img.shields.io/github/license/xiaocong/uiautomator.svg)](http://opensource.org/licenses/MIT)
 
-## Tool
-
-- This repository provides the tool WTT for testing weaknesses in C programs.
+### This repository provides the tool WTT for testing weaknesses in C programs.
 
 ### Requirements
 
