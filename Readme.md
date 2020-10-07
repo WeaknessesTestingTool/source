@@ -8,6 +8,11 @@
 
 ### Requirements
 
+#### Tools
+- Flawfinder version ?
+- AFL version ?
+- CMocka ?
+
 Firstly, system core dumps must be disabled as with AFL.
 
 ```sh
