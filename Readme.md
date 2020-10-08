@@ -2,11 +2,14 @@
 	A Technique to Detect Weaknesses in C Programs
 [![MIT License](https://img.shields.io/github/license/xiaocong/uiautomator.svg)](http://opensource.org/licenses/MIT)
 
-## Tool
-
-- This repository provides the tool WTT for testing weaknesses in C programs.
+### This repository provides the tool WTT for testing weaknesses in C programs.
 
 ### Requirements
+
+#### Tools
+- Flawfinder version ?
+- AFL version ?
+- CMocka ?
 
 Firstly, system core dumps must be disabled as with AFL.
 
