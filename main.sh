@@ -7,9 +7,9 @@ results_folder="results/"
 testcases_folder="testcases/"
 
 #### EXPERIMENT CONFIGURATION ####
-tested_file="htdbm.c"
-tester_file_ft="tester_htdbm_ft.c"
-tester_file_rtc="tester_htdbm_rtc.c"
+tested_file="format_string.c"
+tester_file_ft="tester_format_string_ft.c"
+tester_file_rtc="tester_format_string_rtc.c"
 # mocked_function1="apr_vformatter"
 # mocked_function2="buffer_output"
 #include_folder="include/"

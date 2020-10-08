@@ -10,39 +10,19 @@
 #include <cmocka.h>
 
 //File under test
-#include "htdbm.c"
-//#include "format_string.h"
-
-// int __wrap_apr_dbm_firstkey(){
-//     return EXIT_SUCCESS;
-// }
-//extern apr_status_t htdbm_list(void);
+#include "format_string.c"
 
 // Test functions
-static void test_htdbm_list(void** state) {
+static void test_printWrapper_format(void** state) {
   (void)state;  //unused variable  
   
-  char str1[50] = "%xex";
-  char dptr[] = "teste:";
-  //gets(str1);
-  //*str1 = "testeSTR1";
-  
-  strcat(dptr, str1);
-
-  int dsize = strlen(dptr);
+  char *name = "%xteste";
 
   char buf[BUFSIZ];
   
   freopen("/dev/null", "a", stdout);
   setbuf(stdout, buf);
-
-  if (dptr)
-    htdbm_list(dptr, dsize);
-  
-  char *name = memchr(dptr, ':', dsize);
-  name = name + 1;
-
-  
+  printWrapper(name);
   assert_string_equal(buf, name);
   freopen ("/dev/tty", "a", stdout);
 }
@@ -58,7 +38,7 @@ int teardown (void ** state){
 
 int main(int argc, char** argv) {
     const struct CMUnitTest tests[] = {
-        cmocka_unit_test(test_htdbm_list)
+        cmocka_unit_test(test_printWrapper_format)
     };
     
     int count_fail_tests = 
