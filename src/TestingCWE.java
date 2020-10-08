@@ -28,7 +28,8 @@ public class TestingCWE {
     }
 
     public TestingCWE() {
-        this.pathExp = "/home/raphael/Dropbox/Doutorado/UFCG/SoftwareTesting/TestingCWETool";// pathExp;
+        this.pathExp = System.getProperty("user.dir");
+        this.pathExp = this.pathExp.replaceAll("/src", "");
         this.folderFiles = "/Files";
         this.aflLog = "/log_afl.txt";
         this.rtcFile = "./fuzz";
