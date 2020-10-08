@@ -7,9 +7,9 @@
 ### Requirements
 
 #### Tools
-- Flawfinder version ?
-- AFL version ?
-- CMocka ?
+- Flawfinder version 1.31
+- AFL version 2.52b
+- CMocka version 1.1.5
 
 Firstly, system core dumps must be disabled as with AFL.
 
