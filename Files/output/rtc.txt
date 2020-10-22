@@ -1,6 +1,5 @@
-"0teste" != "%xteste"
-tester_format_string_rtc.c:26: error: Failure!
-
+[  ERROR   ] --- "0teste" != "%xteste"
+[   LINE   ] --- tester_format_string_rtc.c:26: error: Failure!
 [  PASSED  ] 0 test(s).
 [  FAILED  ] 1 test(s), listed below:
 [  FAILED  ] test_printWrapper_format

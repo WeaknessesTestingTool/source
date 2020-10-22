@@ -6,6 +6,11 @@ exp_folder="$dir/Files"
 results_folder="results/"
 testcases_folder="testcases/"
 
+# echo $exp_folder 
+# echo $results_folder 
+# echo $testcases_folder
+# echo $dir
+
 #### EXPERIMENT CONFIGURATION ####
 tested_file="format_string.c"
 tester_file_ft="tester_format_string_ft.c"

@@ -1,7 +1,7 @@
 res1=$(date +%s.%N)
 
 cd src
-javac TestingCWE.java
+#javac TestingCWE.java
 java TestingCWE
 cd ../
 
