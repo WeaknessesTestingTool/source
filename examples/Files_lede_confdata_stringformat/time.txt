@@ -1,0 +1,6 @@
+Runtime RTC: 0:00:00:0.0796
+Runtime FT: 0:00:00:0.1508
+Runtime Input AFL: 0:00:00:0.2787
+Runtime RTC: 0:00:00:0.0731
+Runtime FT: 0:00:00:23.3858
+Runtime Input AFL: 0:00:00:22.6181

@@ -1,0 +1,2 @@
+[  PASSED  ] 1 test(s).
+libgcov profiling error:/home/raphael/Documentos/DoctoralFiles/Testing_Cmocka/Projects/libomemo/step_source/Files/test_libomemo_rtc.gcda:overwriting an existing profile data with a different timestamp

@@ -1,0 +1,10 @@
+tester_confdata_rtc.c: In function ‘__wrap_sym_calc_value’:
+tester_confdata_rtc.c:14:21: warning: ‘return’ with a value, in function returning void
+   14 | #define APR_SUCCESS 0
+      |                     ^
+tester_confdata_rtc.c:25:10: note: in expansion of macro ‘APR_SUCCESS’
+   25 |   return APR_SUCCESS;
+      |          ^~~~~~~~~~~
+tester_confdata_rtc.c:24:6: note: declared here
+   24 | void __wrap_sym_calc_value(struct symbol *sym){
+      |      ^~~~~~~~~~~~~~~~~~~~~
